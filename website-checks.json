@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "pdf_pages": 28,
+  "copy_and_evidence": "Revised together with current source data. Four AI captures open with honest captions.",
+  "browser_checks": "Forecast scenarios, desktop and mobile overflow, source dialog and added sections checked.",
+  "static_checks": "All HTML paths and anchors resolve; JavaScript parses; download archives validate.",
+  "typography": "Mont ExtraLight and Heavy embedded; selected palette retained.",
+  "hosting": "Not published; previous automatic approval review rejected authenticated source sync.",
+  "local_file_limit": "Browser QA used localhost. Browser automation does not permit file:// navigation."
+}

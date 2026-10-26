@@ -1,0 +1,4 @@
+Mont by Fontfabric. Embedded free ExtraLight DEMO and Heavy DEMO weights.
+Source: https://www.dafont.com/mont.font
+Foundry: https://www.fontfabric.com/fonts/mont/
+The included Fontfabric Free Font EULA v2 permits @font-face web embedding. Font files remain unmodified.
